@@ -3,3 +3,8 @@ Major: Computer Science and Engineering
 Minors: Math, Music
 Class: Junior
 Hobbies: Programming, gaming, programming games, singing
+Current Courses:
+    - COEN 174: Software Engineering
+    - MATH 125: Mathematical Finance
+    - ARTS 173: Intro to 3D Animation & Modeling
+    - MUSC 1: Music Theory 1
